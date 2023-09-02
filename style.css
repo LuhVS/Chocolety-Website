@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Audrey Tatum';
+    src: url(./assets/fonts/Audrey\ Tatum.ttf);
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url(./assets/fonts/WorkSans-VariableFont_wght.ttf);
+}
+
 *{
     margin: 0px;
     font-family: 'Work Sans';
@@ -103,7 +113,6 @@ img{
     top: 20%;
     color: white;
     text-align: center;
-    font-s;
 }
 
 .text-box .title{
